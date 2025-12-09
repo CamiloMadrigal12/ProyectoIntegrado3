@@ -12,7 +12,8 @@ Este repositorio contiene el análisis exploratorio de datos realizado con Pytho
 - `EA2. Proyecto Integrador.ipynb`: notebook con la limpieza de datos.
 - `Oscar_Mantilla_Camilo_Madrigal_Camilo_Graciano_Grupo2_EA1`: trabajo escrito de la Evidencia de Aprendizaje 1.
 - `Oscar_Mantilla_Camilo_Madrigal_Camilo_Graciano_Grupo2_EA2`: trabajo escrito de la Evidencia de Aprendizaje 2.
-- `data/`: carpeta con el dataset original.
+- `Oscar_Mantilla_Camilo_Madrigal_Camilo_Graciano_Grupo2_EA3`: trabajo escrito de la Evidencia de Aprendizaje 3.
+- `data/`: carpeta con el dataset original y el dataset con la limpieza de datos.
 - `README.md`: descripción general del proyecto.
 
 ## 🧠 Objetivo del análisis
